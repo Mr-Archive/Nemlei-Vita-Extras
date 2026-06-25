@@ -21,6 +21,8 @@
 **Nemlei Vita Extras** is a collection of Patch files which can be applied to the original PC releases of each corresponding games. 
 Each patch file only works with it coresponding title.
 Download and use at your own risk.
+The patch files contain NONE of the original assets and or copyrighted material from their coresdonding titles.
+All copyrighted data MUST be provided by the end user.
 
 ---
 
