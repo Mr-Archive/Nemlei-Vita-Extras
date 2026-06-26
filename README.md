@@ -36,6 +36,6 @@ All copyrighted data MUST be provided by the end user through their own legally 
 
 Do at your own risk:
 
-Downalod the desired .umrvpkbp patch file from this repo
-Use the patcher tool provided here: https://github.com/Mr-Archive/umaru_vpk_patcher/releases
+Downalod the desired .umrvpkbp patch file from this repo.
+    Then the patcher tool provided here: https://github.com/Mr-Archive/umaru_vpk_patcher/releases
 Follow the instructions provided in the tool itself to create your .vpk file.
